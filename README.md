@@ -1,3 +1,6 @@
+<p align="center">
+  <img width="230" height="200" src="https://github.com/AntonyGN/TicTacToe/blob/main/image.png">
+</p>
 
 # To install and run the Tic Tac Toe game, you can follow these steps:
 1. Click the "Code" button and select "Download ZIP" to download the source code as a ZIP file.
